@@ -5,7 +5,7 @@ A1 = range(10)
 #answer= [0,1,2,3,4,5,6,7,8,9], range(0,10)
 
 A2 = sorted([i for i in A1 if i in A0])
-#answer= empty list []
+#answer= empty list [],
 
 A3 = sorted([A0[s] for s in A0])
 #answer= [1,2,3,4,5]
